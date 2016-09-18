@@ -1,0 +1,21 @@
+{
+  "name": "node-skeleton",
+  "author": "thiagocaggiano@gmail.com",
+  "version": "v1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "compression": "*",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-load": "*",
+    "forever": "*",
+    "moment": "*",
+    "mysql": "*",
+    "request": "*"
+  }
+}
